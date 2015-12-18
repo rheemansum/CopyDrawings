@@ -1,0 +1,1 @@
+This program was created to pull the latest revision of AutoCAD drawings from a specified folder.  The program is based on the naming system of the files.  Each character position of the file name represents a certain characteristic of the drawing.  This was the basis of the program.  
